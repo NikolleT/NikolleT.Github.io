@@ -1,0 +1,41 @@
+﻿body {
+    background-image: url(background.png);
+    back-ground: no-repeat;
+
+}
+
+.titu {
+    color: red;
+    font-size: 60px;
+    text-align: center;
+    font-family:'Comic Sans MS'
+}
+
+.info {
+    color:darkred;
+    font-size:medium;
+    text-align:center;
+       font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif 
+}
+
+.jaja {
+    color:red;
+    text-align:center;
+    font-size:48px;
+    font-family:'Times New Roman', Times, serif
+}
+
+.cip {
+    color:darkred;
+    font-size: 50px;
+    text-align:center;
+    font-family:'Comic Sans MS'
+    
+}
+
+.info {
+    color: darkred;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Comic Sans MS'
+}
